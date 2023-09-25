@@ -1,10 +1,10 @@
-resource "null_resource" "development" {
+resource "null_resource" "test1" {
 }
 
-resource "null_resource" "tesdsadast" {
+resource "null_resource" "test2" {
 
 }
 
-resource "null_resource" "tesst123" {
+resource "null_resource" "test3" {
 
 }
